@@ -1,0 +1,46 @@
+Match_ID,Date,Team1,Team2,Venue,City,Pitch_Type,Team1_Total_Wins_vs_Team2,Team2_Total_Wins_vs_Team1,Team1_Venue_Wins,Team2_Venue_Wins,Team1_Last5,Team2_Last5,Team1_Current_Standing,Team2_Current_Standing,Team1_Estimated_Win_Probability(%),Team2_Estimated_Win_Probability(%)
+1,2025-03-23,Chennai Super Kings,Mumbai Indians,M. Chinnaswamy Stadium,M.,Batting,3,7,0,0,WWWLL,WWLWW,10,4,26.67,73.33
+2,2025-03-24,Chennai Super Kings,Royal Challengers Bengaluru,Arun Jaitley Stadium,Arun,Balanced,9,7,2,0,LLWWW,WLLWW,10,6,33.33,66.67
+3,2025-03-25,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,Eden,Batting,4,9,5,4,LLLLL,WWLWW,2,7,52.94,47.06
+4,2025-03-26,Chennai Super Kings,Delhi Capitals,Eden Gardens,Eden,Batting,8,10,4,0,WLWWL,WLWLL,3,4,55.0,45.0
+5,2025-03-27,Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,MA,Bowling,7,3,1,0,WWWWW,LLWWW,7,6,52.94,47.06
+6,2025-03-28,Chennai Super Kings,Rajasthan Royals,PCA Stadium,PCA,Batting,9,7,5,3,LWWWL,LLLWW,7,4,43.75,56.25
+7,2025-03-29,Chennai Super Kings,Punjab Kings,Eden Gardens,Eden,Batting,10,5,5,2,WWLLW,LWLWL,4,8,66.67,33.33
+8,2025-03-30,Chennai Super Kings,Gujarat Titans,BRSABV Ekana Stadium,BRSABV,Bowling,4,3,5,2,WWLLW,LLLWW,4,8,66.67,33.33
+9,2025-03-31,Chennai Super Kings,Lucknow Super Giants,Eden Gardens,Eden,Batting,9,7,2,4,LLWWW,LLLLW,3,6,64.71,35.29
+10,2025-04-01,Mumbai Indians,Royal Challengers Bengaluru,Eden Gardens,Eden,Batting,6,4,0,5,WLLLW,WLLLW,9,7,40.0,60.0
+11,2025-04-02,Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,Narendra,Balanced,5,7,5,5,WLWWW,WWLWL,9,3,35.29,64.71
+12,2025-04-03,Mumbai Indians,Delhi Capitals,BRSABV Ekana Stadium,BRSABV,Bowling,3,3,2,2,LLLLL,LLWWW,1,2,45.45,54.55
+13,2025-04-04,Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,MA,Bowling,7,9,5,2,WWWWL,LLWLL,4,6,64.71,35.29
+14,2025-04-05,Mumbai Indians,Rajasthan Royals,Rajiv Gandhi Intl Stadium,Rajiv,Balanced,7,9,1,4,WWWLL,WWWWW,5,8,52.94,47.06
+15,2025-04-06,Mumbai Indians,Punjab Kings,Arun Jaitley Stadium,Arun,Balanced,8,3,2,5,LWWLL,WWWLW,5,2,38.1,61.9
+16,2025-04-07,Mumbai Indians,Gujarat Titans,Sawai Mansingh Stadium,Sawai,Balanced,6,7,3,5,LLLLL,LWWLL,8,8,37.5,62.5
+17,2025-04-08,Mumbai Indians,Lucknow Super Giants,BRSABV Ekana Stadium,BRSABV,Bowling,6,3,3,3,LLWLL,LLLLW,6,5,46.15,53.85
+18,2025-04-09,Royal Challengers Bengaluru,Kolkata Knight Riders,Sawai Mansingh Stadium,Sawai,Balanced,10,9,4,4,LLWWL,WWLWL,3,2,45.45,54.55
+19,2025-04-10,Royal Challengers Bengaluru,Delhi Capitals,Wankhede Stadium,Wankhede,Batting,8,5,1,1,WLWWL,WLWLL,1,3,56.52,43.48
+20,2025-04-11,Royal Challengers Bengaluru,Sunrisers Hyderabad,Rajiv Gandhi Intl Stadium,Rajiv,Balanced,5,5,5,4,LLWLW,WWWLW,8,8,41.67,58.33
+21,2025-04-12,Royal Challengers Bengaluru,Rajasthan Royals,M. Chinnaswamy Stadium,M.,Batting,7,8,5,2,WWWWW,WWLWL,9,3,38.89,61.11
+22,2025-04-13,Royal Challengers Bengaluru,Punjab Kings,Narendra Modi Stadium,Narendra,Balanced,9,9,5,5,LLLWL,WLLWL,6,4,40.0,60.0
+23,2025-04-14,Royal Challengers Bengaluru,Gujarat Titans,Sawai Mansingh Stadium,Sawai,Balanced,9,10,3,4,LLWLL,WWWLL,2,10,71.43,28.57
+24,2025-04-15,Royal Challengers Bengaluru,Lucknow Super Giants,MA Chidambaram Stadium,MA,Bowling,5,5,4,5,WLLLW,WLWLL,9,6,36.36,63.64
+25,2025-04-16,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,Eden,Batting,9,5,5,2,LLLLL,WLLLL,1,8,71.43,28.57
+26,2025-04-17,Kolkata Knight Riders,Sunrisers Hyderabad,Arun Jaitley Stadium,Arun,Balanced,6,7,0,4,WWLWL,WWWWW,10,8,33.33,66.67
+27,2025-04-18,Kolkata Knight Riders,Rajasthan Royals,Sawai Mansingh Stadium,Sawai,Balanced,6,8,5,5,LLWLW,LLWLL,6,2,41.18,58.82
+28,2025-04-19,Kolkata Knight Riders,Punjab Kings,Sawai Mansingh Stadium,Sawai,Balanced,10,4,3,2,WWWWW,WWWLW,3,3,52.0,48.0
+29,2025-04-20,Kolkata Knight Riders,Gujarat Titans,M. Chinnaswamy Stadium,M.,Batting,10,3,2,3,LLWLW,LLLLL,3,10,90.91,9.09
+30,2025-04-21,Kolkata Knight Riders,Lucknow Super Giants,Arun Jaitley Stadium,Arun,Balanced,10,3,1,0,LLWLL,WLWWW,5,6,43.75,56.25
+31,2025-04-22,Delhi Capitals,Sunrisers Hyderabad,BRSABV Ekana Stadium,BRSABV,Bowling,3,8,3,5,LWWWW,WWLLW,6,3,45.0,55.0
+32,2025-04-23,Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,M.,Batting,7,9,4,3,LWWLL,WWWWL,8,5,33.33,66.67
+33,2025-04-24,Delhi Capitals,Punjab Kings,M. Chinnaswamy Stadium,M.,Batting,9,8,4,1,WWWWW,WWLLL,5,2,50.0,50.0
+34,2025-04-25,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,Arun,Balanced,6,5,0,0,WWWWW,WLWWL,8,6,50.0,50.0
+35,2025-04-26,Delhi Capitals,Lucknow Super Giants,Arun Jaitley Stadium,Arun,Balanced,3,10,3,0,WLLWW,WWWLL,3,3,50.0,50.0
+36,2025-04-27,Sunrisers Hyderabad,Rajasthan Royals,Eden Gardens,Eden,Batting,6,3,2,0,LWWWW,LLLLL,5,6,66.67,33.33
+37,2025-04-28,Sunrisers Hyderabad,Punjab Kings,PCA Stadium,PCA,Batting,6,3,5,4,WLLLL,WWLWW,3,3,42.86,57.14
+38,2025-04-29,Sunrisers Hyderabad,Gujarat Titans,PCA Stadium,PCA,Batting,5,3,0,0,LWWWL,WWLLL,1,5,61.9,38.1
+39,2025-04-30,Sunrisers Hyderabad,Lucknow Super Giants,PCA Stadium,PCA,Batting,8,10,0,0,LWLWL,LWLLW,1,4,57.14,42.86
+40,2025-05-01,Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium,Sawai,Balanced,8,6,3,3,LWLWW,WLWWL,1,10,76.47,23.53
+41,2025-05-02,Rajasthan Royals,Gujarat Titans,Narendra Modi Stadium,Narendra,Balanced,5,7,0,0,WWLLW,WWWWW,6,5,42.11,57.89
+42,2025-05-03,Rajasthan Royals,Lucknow Super Giants,BRSABV Ekana Stadium,BRSABV,Bowling,9,5,3,3,WWLLW,LWLLL,5,6,60.0,40.0
+43,2025-05-04,Punjab Kings,Gujarat Titans,Rajiv Gandhi Intl Stadium,Rajiv,Balanced,9,3,0,1,WLLWL,WLWLL,3,4,52.63,47.37
+44,2025-05-05,Punjab Kings,Lucknow Super Giants,Sawai Mansingh Stadium,Sawai,Balanced,10,8,1,3,WWWLL,WWLWL,8,8,50.0,50.0
+45,2025-05-06,Gujarat Titans,Lucknow Super Giants,Sawai Mansingh Stadium,Sawai,Balanced,3,3,4,2,WLLWW,WLLWL,8,3,37.5,62.5
